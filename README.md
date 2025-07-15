@@ -20,8 +20,8 @@ A minimal yet functional **Network Packet Sniffer** developed during my Cyber Se
 ## 📦 Installation
 1. Clone this repository:
    ```bash
-   git clone <your-repo-link>
-   cd <repo-folder>
+   git clone <https://github.com/Mango-2002/Packet-Sniffer/>
+   cd <Packet-Sniffer>
 
 
 python3 -m venv venv
